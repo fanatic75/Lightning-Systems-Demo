@@ -1,0 +1,35 @@
+{
+  "name": "lightning_system_design",
+  "version": "0.0.1",
+  "description": "A demo node js app with Lightning System Design css library",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node  server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/fanatic75/Lightning-Systems-Demo.git"
+  },
+  "keywords": [
+    "Web",
+    "App",
+    "Node",
+    "js",
+    "Js",
+    "Heroku",
+    "Css",
+    "framework"
+  ],
+  "author": "Prateek Banga",
+  "license": "MIT",
+  "dependencies": {
+    "@salesforce-ux/design-system": "^2.8.3",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  },
+  "type": "module"
+}
